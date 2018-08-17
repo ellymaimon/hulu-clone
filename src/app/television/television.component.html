@@ -1,9 +1,12 @@
-<h1>Television</h1>
-<p>There will be lots of TV shows here.</p>
+<h1>Featured Television Masthead</h1>
+<h1>Navigation Image Squares</h1>
 
-<div *ngFor="let show of shows">
-  <h2 (click)="goToDetailPage(show)">{{ show.title }}</h2>
-  <h3>{{ show.genre }}</h3>
-  <p>{{ show.synopsis }}</p>
-  <p>Original Network: {{ show.network }}</p>
+<h1>Your Watchlist</h1>
+<div class="row">
+  <div *ngFor="let show of shows" class="col">
+    <h2 (click)="goToDetailPage(show)">{{ show.title }}</h2>
+    <h3>{{ show.genre }}</h3>
+    <p>{{ show.synopsis }}</p>
+    <p>Original Network: {{ show.network }}</p>
+  </div>
 </div>
