@@ -12,7 +12,8 @@ import { ShowService } from '../show.service';
 })
 
 export class ShowDetailComponent implements OnInit {
-  showId: number = null;
+  showId: number;
+  showToDisplay: Show;
 
   constructor(
     private route: ActivatedRoute,
@@ -23,7 +24,8 @@ export class ShowDetailComponent implements OnInit {
   ngOnInit() {
     this.route.params.forEach((urlParameters) => {
       this.showId = parseInt(urlParameters['id']);
-    });      
+    });
+    this.showToDisplay = this.showService.getShowById(this.showId);   
   }
 
 }
