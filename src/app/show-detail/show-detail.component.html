@@ -1,1 +1,6 @@
-<h2>This show has id number: {{ albumId }}</h2>
+<div>
+  <h3>{{ showToDisplay.title }}</h3>
+  <h4>Seasons Available: {{ showToDisplay.seasons.length }}</h4>
+  <h5>Genre: {{ showToDisplay.genre}} | Network: {{ showToDisplay.network }}</h5>
+  <p>{{ showToDisplay.synopsis }}</p>
+</div>
