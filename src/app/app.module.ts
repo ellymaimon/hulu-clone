@@ -7,6 +7,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { routing } from './app.routing';
 import { TelevisionComponent } from './television/television.component';
 import { MoviesComponent } from './movies/movies.component';
+import { ShowDetailComponent } from './show-detail/show-detail.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { MoviesComponent } from './movies/movies.component';
     AppComponent,
     WelcomeComponent,
     TelevisionComponent,
-    MoviesComponent
+    MoviesComponent,
+    ShowDetailComponent
   ],
   imports: [
     BrowserModule,
