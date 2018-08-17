@@ -7,6 +7,7 @@ export class Show {
     public title: string,
     public genre: string,
     public network: string,
-    public synopsis: string
+    public synopsis: string,
+    public url: string
   ){}
 }
