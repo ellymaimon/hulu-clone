@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { routing } from './app.routing';
 import { TelevisionComponent } from './television/television.component';
+import { MoviesComponent } from './movies/movies.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     WelcomeComponent,
-    TelevisionComponent
+    TelevisionComponent,
+    MoviesComponent
   ],
   imports: [
     BrowserModule,
