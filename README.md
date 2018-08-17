@@ -2,10 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
+## Description
+This project is a faithful clone of the Hulu website, built with Angular.
+
 ## Specs
 ### Home Page (Logged Out)
 * Splash page with welcome image and content
-* 
+* Ability to Log In / Start Free Trial
+* Section with features to entice users to sign up
+* Section to select your plan to sign up
+* Start free trial section near bottom of the page
+* Footer with links to info sections
 
 ### Home Page (Logged In)
 * Navigation Bar to traverse website
@@ -21,6 +28,18 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Popular Movies based on the popularity of content site-wide
 * New Seasons section based on new seasons of TV programs
 * Popular Episodes section based on popular specific TV episodes
+* Trending Clips section with popular clips
+* Popular networks sections with logos for the available networks
+* Bottom of the page Navigation section
+* Footer with links to info sections
+
+### Video Player Page
+* When the user decides to watch something, this will be the page that displays
+* Navigation bar matching home page
+* Video section with movie player and information
+* Section for Episodes, Clips, and Recommendations based on current program
+* Comments section integrated via Facebook plugin
+* Footer matching home page
 
 
 
