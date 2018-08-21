@@ -1,10 +1,11 @@
 import { Season } from './season.model';
 
 export class Show {
-  favorite: boolean = false;
+  watchlist: boolean = false;
   staffPick: boolean = false;
 
   constructor(
+    public seasonsAmount: number,
     public seasons: Season[],
     public title: string,
     public genre: string,
