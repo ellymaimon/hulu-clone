@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { SHOWS } from './mock-shows';
 import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
 @Injectable()
@@ -14,11 +13,7 @@ export class ShowService {
     return this.shows;
   }
 
-  getShowById(showId: number){
-    // for (var i = 0; i <= SHOWS.length - 1; i++) {
-    //   if (SHOWS[i].id === showId) {
-    //     return SHOWS[i];
-    //   }
-    // }
+  getShowById(showId: string){
+    return this.database.object('shows/' + showId);
   }
 }
