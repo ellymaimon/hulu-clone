@@ -22,10 +22,10 @@ export class ShowDetailComponent implements OnInit {
   ) {}
 
   ngOnInit() {
-    this.route.params.forEach((urlParameters) => {
-      this.showId = parseInt(urlParameters['id']);
-    });
-    this.showToDisplay = this.showService.getShowById(this.showId);   
+    // this.route.params.forEach((urlParameters) => {
+    //   this.showId = parseInt(urlParameters['id']);
+    // });
+    // this.showToDisplay = this.showService.getShowById(this.showId);   
   }
 
 }
