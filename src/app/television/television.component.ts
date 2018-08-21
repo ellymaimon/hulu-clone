@@ -20,8 +20,8 @@ export class TelevisionComponent implements OnInit {
     this.shows = this.showService.getShows();
   }
 
-  goToDetailPage(clickedShow: Show) {
-    // this.router.navigate(['tv', clickedShow.id]);
+  goToDetailPage(clickedShow) {
+    this.router.navigate(['tv', clickedShow.$key]);
   }
 
   leftScroll() {
