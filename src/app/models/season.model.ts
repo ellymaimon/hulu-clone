@@ -1,7 +1,9 @@
+import { Episode } from './episode.model';
+
 export class Season {
   constructor(
-    public id: number,
-    public year: number,
-    public episodeTitles: string[]
+    public seasonNumber: number,
+    public episodesAmount: number,
+    public episodes: Episode[]
   ) {}
 }
