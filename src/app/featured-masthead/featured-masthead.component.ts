@@ -15,9 +15,12 @@ export class FeaturedMastheadComponent implements OnInit {
   @HostListener("window:scroll", [])
   onWindowScroll() {
 
-    const number = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-    if (number > 520) {
-      console.log('You are out of the header');
+    let number = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    if (number > 500) {
+      document.getElementById('nav').style.background = "rgba(0, 0, 0, 0.8)";
+    }
+    if (number < 500) {
+      document.getElementById('nav').style.background = "rgba(0, 0, 0, 0.0)";
     }
   }
 
