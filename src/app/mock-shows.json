@@ -1,0 +1,34 @@
+{
+  "shows": [
+    {
+      "seasonsAmount" : 1,
+      "seasons": {
+        "id" : "1",
+        "year": "1999",
+        "episodes": [
+          "Valhalla", "Episode 2", "Final One"
+        ]
+      },
+      "title" : "Short Show",
+      "genre" : "Comedy",
+      "network" : "ABC",
+      "synopsis" : "A hoot!",
+      "url" : "haha.jpg"
+    },
+    {
+      "seasonsAmount" : 1,
+      "seasons": {
+        "id" : "1",
+        "year": "2010",
+        "episodes": [
+          "Introduction", "Rising Action", "Climax", "Resolution"
+        ]
+      },
+      "title" : "True Detective",
+      "genre" : "Drama",
+      "network" : "AMC",
+      "synopsis" : "Intense show about detectives.",
+      "url" : "detecives.jpg"
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Show } from '../models/show.model'
 import { Router } from '@angular/router';
 import { ShowService } from '../show.service';
+import { FirebaseListObservable } from 'angularfire2/database';
 
 @Component({
   selector: 'app-television',
@@ -11,7 +12,7 @@ import { ShowService } from '../show.service';
 })
 
 export class TelevisionComponent implements OnInit {
-  shows: Show[];
+  shows: FirebaseListObservable<any[]>;
 
   constructor(private router: Router, private showService: ShowService) {}
   
@@ -19,8 +20,8 @@ export class TelevisionComponent implements OnInit {
     this.shows = this.showService.getShows();
   }
 
-  goToDetailPage(clickedShow: Show) {
-    this.router.navigate(['tv', clickedShow.id]);
+  goToDetailPage(clickedShow) {
+    this.router.navigate(['tv', clickedShow.$key]);
   }
 
   leftScroll() {

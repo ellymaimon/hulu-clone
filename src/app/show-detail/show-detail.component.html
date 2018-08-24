@@ -1,6 +1,7 @@
 <div>
-  <h3>{{ showToDisplay.title }}</h3>
-  <h4>Seasons Available: {{ showToDisplay.seasons.length }}</h4>
-  <h5>Genre: {{ showToDisplay.genre}} | Network: {{ showToDisplay.network }}</h5>
-  <p>{{ showToDisplay.synopsis }}</p>
+  <h3>{{ (showToDisplay | async)?.title }}</h3>
+  <h4>Seasons Available: {{ (showToDisplay | async)?.seasonsAmount }}</h4>
+  <h5>Genre: {{ (showToDisplay | async)?.genre}} | Network: {{ (showToDisplay | async)?.network }}</h5>
+  <p>{{ (showToDisplay | async)?.synopsis }}</p>
+  <button class="btn btn-info" (click)="addToWatchlist()">Add to Watchlist</button>
 </div>

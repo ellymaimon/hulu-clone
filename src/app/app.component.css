@@ -1,8 +1,28 @@
+/* -------------- */
+/* NAVIGATION BAR */
+/* -------------- */
+
+.navbar { 
+  margin-left: 120px;
+  margin-right: 120px;
+  background: rgba(0,0,0, 0.0);
+  position: fixed;
+}
+
 .search {
   margin-left: 50px;
   font-size: 12px;
   width: 250px;
   height: 30px;
+}
+
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: #66AA33
 }
 
 #search-icon {
@@ -15,4 +35,8 @@
 
 #search-icon:hover {
   cursor: pointer;
+}
+
+#logo {
+  margin-bottom: 7px;
 }
