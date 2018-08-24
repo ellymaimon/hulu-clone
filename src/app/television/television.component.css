@@ -1,16 +1,16 @@
 .card-row {
-  height: 400px;
+  height: 214px;
+  width: 1186px;
+  margin: 0 auto;
 }
 
 .show-container {
   width: 224px;
   height: 198px;
   display: inline-block;
-  margin-right: 15px;
-  border: 1px black solid;
+  margin-right: 12px;
 }
 
-.television-container {
-  margin-left: 127px;
-  margin-right: 127px;
+.show-container p {
+  margin-bottom: 0px;
 }

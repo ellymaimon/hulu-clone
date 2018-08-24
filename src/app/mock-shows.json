@@ -5,7 +5,65 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
+      "seasonsAmount" : 2,
+      "seasons": [
+        {
+          "seasonNumber" : 2,
+          "episodesAmount" : 10,
+          "episodes": [
+            {
+              "title": "Offred",
+              "episodeNumber": 1,
+              "runtime": "57 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred, one of the few fertile women known as Handmaids in the oppressive Republic of Gilead, struggles to survive as a reproductive surrogate for a powerful Commander and his resentful wife."
+            },
+            {
+              "title": "Birth Day",
+              "episodeNumber": 2,
+              "runtime": "47 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred and her fellow Handmaids assist with the delivery of Janine's baby, prompting Offred to recall her own daughter’s birth. Offred draws closer to Ofglen while dreading a secret meeting with the Commander."
+            },
+            {
+              "title": "Late",
+              "episodeNumber": 3,
+              "runtime": "53 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred visits Janine’s baby with Serena Joy and remembers the early days of the revolution before Gilead. Ofglen faces a difficult challenge."
+            },
+            {
+              "title": "Late",
+              "episodeNumber": 4,
+              "runtime": "53 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred visits Janine’s baby with Serena Joy and remembers the early days of the revolution before Gilead. Ofglen faces a difficult challenge."
+            },
+            {
+              "title": "Late",
+              "episodeNumber": 5,
+              "runtime": "53 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred visits Janine’s baby with Serena Joy and remembers the early days of the revolution before Gilead. Ofglen faces a difficult challenge."
+            },
+            {
+              "title": "Late",
+              "episodeNumber": 6,
+              "runtime": "53 min",
+              "airdate": "04/26/2017",
+              "synopsis": "Offred visits Janine’s baby with Serena Joy and remembers the early days of the revolution before Gilead. Ofglen faces a difficult challenge."
+            }          
+          ]
+        }
+      ]
+    },
+    {
+      "title" : "The Handmaid's Tale",
+      "genre" : "Drama",
+      "network" : "Hulu",
+      "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -42,7 +100,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -79,7 +137,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -116,7 +174,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -153,7 +211,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -190,7 +248,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -227,7 +285,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -264,7 +322,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {
@@ -301,44 +359,7 @@
       "genre" : "Drama",
       "network" : "Hulu",
       "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
-      "seasonsAmount" : 2,
-      "seasons": [
-        {
-          "seasonNumber" : 2,
-          "episodesAmount" : 10,
-          "episodes": [
-            {
-              "title": "Offred",
-              "episodeNumber": 1,
-              "runtime": "57 min",
-              "airdate": "04/26/2017",
-              "synopsis": "Offred, one of the few fertile women known as Handmaids in the oppressive Republic of Gilead, struggles to survive as a reproductive surrogate for a powerful Commander and his resentful wife."
-            },
-            {
-              "title": "Birth Day",
-              "episodeNumber": 2,
-              "runtime": "47 min",
-              "airdate": "04/26/2017",
-              "synopsis": "Offred and her fellow Handmaids assist with the delivery of Janine's baby, prompting Offred to recall her own daughter’s birth. Offred draws closer to Ofglen while dreading a secret meeting with the Commander."
-            },
-            {
-              "title": "Late",
-              "episodeNumber": 3,
-              "runtime": "53 min",
-              "airdate": "04/26/2017",
-              "synopsis": "Offred visits Janine’s baby with Serena Joy and remembers the early days of the revolution before Gilead. Ofglen faces a difficult challenge."
-            }            
-          ]
-        }
-      ]
-    },
-    {
-      "title" : "The Handmaid's Tale",
-      "genre" : "Drama",
-      "network" : "Hulu",
-      "synopsis" : "Adapted from the classic novel by Margaret Atwood, The Handmaid's Tale is the story of life in the dystopia of Gilead, a totalitarian society in what was formerly the United States. Facing environmental disasters and a plunging birthrate, Gilead is ruled by a twisted fundamentalism in its militarized ‘return to traditional values'. As one of the few remaining fertile women, Offred (Elisabeth Moss) is a Handmaid in the Commander’s household, one of the caste of women forced into sexual servitude as a last desperate attempt to repopulate the world. In this terrifying society, Offred must navigate between Commanders, their cruel Wives, domestic Marthas, and her fellow Handmaids – where anyone could be a spy for Gilead – all with one goal: to survive and find the daughter that was taken from her.",
-      "imgUrl" : "handmaid_thumbnail.jpg",
+      "imgUrl" : "handmaid_thumbnail.jpeg",
       "seasonsAmount" : 2,
       "seasons": [
         {

@@ -18,6 +18,8 @@ export class TelevisionComponent implements OnInit {
   
   ngOnInit(){
     this.shows = this.showService.getShows();
+    console.log(this.shows);
+    
   }
 
   goToDetailPage(clickedShow) {

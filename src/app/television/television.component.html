@@ -1,16 +1,15 @@
 <app-featured-masthead></app-featured-masthead>
 
 <br>
-<div class="television-container">
-  
+<div class="card-row">
   <h2>User's Watchlist: TV</h2>
-  <div class="card-row" >
-    <div class="show-container" *ngFor="let show of shows | async ; index as i">
-      <img *ngIf="i < 5"(click)="goToDetailPage(show)" src="../assets/{{ show.imgUrl }}">
-      <p *ngIf="i < 5"(click)="goToDetailPage(show)">Resume Episode</p>
-      <p *ngIf="i < 5">{{ show.seasons[0].episodes[0].title }}</p>
-      <p *ngIf="i < 5">Season {{ show.seasons[0].seasonNumber }}, Episode {{ show.seasons[0].episodes[0].episodeNumber }} </p>
-    </div> 
-  </div>
+  <div *ngFor="let show of shows | async ; index as i" class="show-container">
+    <div *ngIf="i < 5" class="show-container">
+      <img (click)="goToDetailPage(show)" src="../assets/{{ show.imgUrl }}">
+      <p>{{ show.seasons[0].episodes[0].title }}</p>
+      <p>Season {{ show.seasons[0].seasonNumber }}, Episode {{ show.seasons[0].episodes[0].episodeNumber }}</p>
+    </div>
+  </div> 
 </div>
+
 
