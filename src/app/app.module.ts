@@ -10,6 +10,7 @@ import { ShowDetailComponent } from './show-detail/show-detail.component';
 import { masterFirebaseConfig } from './api-keys';
 import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
+import { FeaturedMastheadComponent } from './featured-masthead/featured-masthead.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -24,7 +25,8 @@ export const firebaseConfig = {
     WelcomeComponent,
     TelevisionComponent,
     MoviesComponent,
-    ShowDetailComponent
+    ShowDetailComponent,
+    FeaturedMastheadComponent
   ],
   imports: [
     BrowserModule,
