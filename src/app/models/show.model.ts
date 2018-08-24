@@ -5,12 +5,12 @@ export class Show {
   staffPick: boolean = false;
 
   constructor(
-    public seasonsAmount: number,
-    public seasons: Season[],
     public title: string,
     public genre: string,
     public network: string,
     public synopsis: string,
-    public url: string
+    public imgUrl: string,
+    public seasonsAmount: number,
+    public seasons: Season[]
   ){}
 }
