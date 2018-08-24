@@ -40,3 +40,12 @@
 #logo {
   margin-bottom: 7px;
 }
+
+.featured {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
