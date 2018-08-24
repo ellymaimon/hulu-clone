@@ -23,12 +23,4 @@ export class TelevisionComponent implements OnInit {
   goToDetailPage(clickedShow) {
     this.router.navigate(['tv', clickedShow.$key]);
   }
-
-  leftScroll() {
-    document.querySelector('.row').scrollLeft -= 760;
-  }
-  
-  rightScroll() {
-    document.querySelector('.row').scrollLeft += 760;
-  }
 }
