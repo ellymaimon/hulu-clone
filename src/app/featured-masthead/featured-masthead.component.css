@@ -9,3 +9,27 @@
     max-width: 100%;
     max-height: 100%;
 }
+
+.featured-details {
+    position: absolute;
+    width: 360px;
+    height: 173px;
+    top: 280px;
+    left: 127px;
+    color: #FFF;
+    text-shadow: 2px 1px 1px black;
+}
+
+.watch-next {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.show-title {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.season-episode {
+    font-size: 24px;
+}
