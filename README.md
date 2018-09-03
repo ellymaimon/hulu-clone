@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Description
-This project is a faithful clone of the Hulu website, built with Angular.
+This project is a faithful clone of the Hulu website, built with Angular. Project is deployed via firebase at https://hulu-clone.firebaseapp.com/
 
 ## Specs
 ### Home Page (Logged Out)
